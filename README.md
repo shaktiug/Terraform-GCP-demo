@@ -1,2 +1,2 @@
-# Terraform-sh-demo
-Terraform-sh-demo
+# Terraform-GCP-demo
+Terraform-GCP-demo
